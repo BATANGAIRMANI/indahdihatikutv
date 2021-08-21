@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://unifiplaytv.samsam123.tk/epg" url-tvg="https://unifiplaytv.samsam123.tk/epg" refresh="9000" max-conn="1" refresh="8000"
+#EXTM3U x-tvg-url="https://unifiplaytv.samsam123.tk/epg" url-tvg="https://unifiplaytv.samsam123.tk/epg" refresh="600000" max-conn="1" refresh="90000"
 
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -19,17 +19,24 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227815/3221227815.mpd
 #EXTINF:-1 group-title="Malaysian Variety" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3
 https://web.hypp.tv:443/PLTV/88888888/224/3221227779/3221227779.mpd
 
----------------------------
+
+
+------------------------------------------------
 
 #EXTINF:-1 tvg-id="TV6" group-title="myFreeview" tvg-logo="https://mediahomes.github.io/logos/tv6.png",TV6
 https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
-----------------------------------
-
-#EXTINF:-1 tvg-id="awesometv.my" tvg-name="Awesome TV" tvg-logo="http://tvmalaysia.cc:80/images/0146208cd80a3023076acb907b451381.png" group-title="LIVE | ASTRO",Awesome TV
-http://iptv.tvmalaysia.cc:80/penang172/penang172/9016
 
 
-=============================
+EXTM3U
+#EXT-X-VERSION:3
+#EXTINF:-1 tvg-id="123" group-title="myFreeview" tvg-logo="https://user-images.githubusercontent.com/85995579/128817749-0901f1fa-a6e5-4c6f-9207-c72365d9225d.png",123 Awesome TV
+http://l365.in/manal/manal/400200777
+
+
+---------------------------------------------
+
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NDA4OGEzMTAtNGNiYi0zNGMzLTgwYjctMGIzNGNmNTgzYjVk
