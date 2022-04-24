@@ -1,5 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Index</title>
+<head>
+<script async src='/cdn-cgi/challenge-platform/h/g/scripts/invisible.js?ts=1650816000'></script><body>
+<link rel="icon" type="image/png" href="images/channels4_profile.jpg" />
+<noscript>
+
 #EXTM3U x-tvg-url=https://bit.ly/aqfadtvepg refresh="1440" max-conn="1" refresh="24"
 
+#EXTINF:-1 tvg-id="CHN" group-title="Info" ch-number="1" tvg-logo="https://aqfadtv.astradamy.com/images/Untitled.png",DO NOT SELL THIS PLAYLIST!
+https://onedrive.aqfadtv.xyz/api/raw/?path=/Info.mp4&raw=true
+
+#EXTINF:-1 tvg-id="CHN" group-title="Preview" ch-number="2" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/68bacd2e2fc3456d8f66ee1cdeab9ae0/version/6/width/368/height/208/quality/80",Anugerah Meletop Era 2021 Promo
+# https://onedrive.aqfadtv.xyz/api?path=/AME2021.mp4&raw=true
+
+#EXTINF:-1 tvg-id="CHN" group-title="Preview" ch-number="3" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/shop/nov%202021/asr1305029_cassandra_acm-banner-refresh_batch-2_decktop_eng_sports-pack.jpg",Astro's Biggest Year For Sports 2022
+# https://videos.astradamy.com/astrobigyearforsports2022/master.m3u8
+
+#EXTINF:-1 tvg-id="CHN" group-title="Preview" ch-number="4" tvg-logo="https://aqfadtv.astradamy.com/logos/AqFadPreviewChannel.png",AqFad Preview Channel
+# https://onedrive.aqfadtv.xyz/api?path=/previewchannel.mp4&raw=true
+# https://aqfadtv.astradamy.com/AqFadPreviewChannel/master.m3u8
+
+#EXTINF:-1 tvg-id="CHN" group-title="Events" ch-number="100" tvg-logo="https://aqfadtv.astradamy.com/logos/AME2021.png",Anugerah Meletop Era 2021
+# https://asrazunifi.ddns.net:8443/show.m3u8
+
+#EXTINF:-1 tvg-id="CHN" group-title="Live" ch-number="100" tvg-logo="https://aqfadtv.astradamy.com/logos/AqFadLive.png",AqFad Live
+# https://asrazunifi.ddns.net:8443/aqfadlive.m3u8
 
 #EXTINF:-1 tvg-id="TV1" group-title="myFreeview" ch-number="101" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -22,12 +49,12 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 #EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",104 Astro Ria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1004
-https://linears-playback.astro.com.my/vsgN/41KPzKMI9pj8KlBCMu4dx_bmwT-bIYnhu-91XGjBbyK9Y=ggOU/dash-wv/jitp-linearwm/1004/default_primary.mpd
+https://linears-playback.astro.com.my/vsgN/41KPzKMI9pj8KlBCMu4dx_boocq3drZBorewUwfiv910c=50Fl/dash-wv/jitp-linearwm/1004/default_primary.mpd
 
 #EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",104 Astro Ria (Backup)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1004
-https://linears-playback.astro.com.my/vsgN/41KPzKMI9pj8KlBCMu4dx_bmwT-bIYnhu-91XGjBbyK9Y=ggOU/dash-wv/jitp-linearwm/1004/default_ott.mpd
+https://linears-playback.astro.com.my/vsgN/41KPzKMI9pj8KlBCMu4dx_boocq3drZBorewUwfiv910c=50Fl/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroPrima" group-title="Astro" ch-number="105" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png/revision/latest?cb=20190111152445",105 Astro Prima
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -46,23 +73,23 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 #EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" ch-number="107" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",107 Astro Warna
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2402
-https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9E0QNWbOLSAD2PD4fV7pwo0=y5cq/dash-wv/jitp-linearwm/2402/default_primary.mpd
+https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9Pc433k7iUajJdqPxF-v3MU=aBtD/dash-wv/jitp-linearwm/2402/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",107 Astro Warna (Backup)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2402
-https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9E0QNWbOLSAD2PD4fV7pwo0=y5cq/dash-wv/jitp-linearwm/2402/default_ott.mpd
+https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9Pc433k7iUajJdqPxF-v3MU=aBtD/dash-wv/jitp-linearwm/2402/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="Movies" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2700
-https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9IN22A-B6qo0hTWqYuin9LU=5SM7/dash-wv/jitp-linearwm/2700/default_primary.mpd
+https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9H4U3tw-67mVNVtPuK6Lhhs=G9lE/dash-wv/jitp-linearwm/2700/default_primary.mpd
 # https://live.astradamy.com/astro/citra/index.mpd
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra (Backup)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2700
-https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9IN22A-B6qo0hTWqYuin9LU=5SM7/dash-wv/jitp-linearwm/2700/default_ott.mpd
+https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9H4U3tw-67mVNVtPuK6Lhhs=G9lE/dash-wv/jitp-linearwm/2700/default_ott.mpd
 
 #EXTINF:-1 tvg-id="TVSUKAN" group-title="Sports" ch-number="111" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png/revision/latest/scale-to-width-down/300?cb=20210408125347",111 Sukan RTM
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
@@ -188,7 +215,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_ott.mpd
 #EXTINF:-1 tvg-id="AstroVinmeenHD" ch-number="202" group-title="Indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png",202 Astro Vinmeen HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2105
-https://linears-playback.astro.com.my/vsgN/41eMhI4QyeFWjMWsv49tqwko8SduLVgFK9TQ_xod25uoY=9Pkg/dash-wv/jitp-linearwm/2105/default_primary.mpd
+https://linears-playback.astro.com.my/vsgN/41eMhI4QyeFWjMWsv49tqwkg90HwJWUDv9rT3-3iW8fBY=oEFb/dash-wv/jitp-linearwm/2105/default_primary.mpd
 # https://live.astradamy.com/astro/vinmeen/index.mpd
 
 #EXTINF:-1 tvg-id="AstroVellithirai" ch-number="203" group-title="Movies" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroVellithirai.png",203 Astro Vellithirai
@@ -264,7 +291,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_ott.mpd
 #EXTINF:-1 tvg-id="AstroAEC" ch-number="306" group-title="Chinese" tvg-logo="https://user-images.githubusercontent.com/85995579/128458263-2fdbda45-1e3a-4480-9933-04e301790472.png",306 Astro AEC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2400
-https://linears-playback.astro.com.my/vsgN/41xB9XItVsSi_aY-Km766Bzfh6TKO834bfNj_hbe564Y4=sJYp/dash-wv/jitp-linearwm/2400/default_primary.mpd
+https://linears-playback.astro.com.my/vsgN/41xB9XItVsSi_aY-Km766Bzew-urgCulEh-rjI2pttiB0=v0VH/dash-wv/jitp-linearwm/2400/default_primary.mpd
 # https://live.astradamy.com/astro/aec/index.mpd
 
 #EXTINF:-1 tvg-id="AstroShuangXing" ch-number="307" group-title="Chinese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Astro_Shuang_Xing_%282015%29.png/revision/latest?cb=20190106060728",307 Astro Shuang Xing
@@ -331,7 +358,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5009/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2308
 # http://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_ott.mpd
-https://linears-playback.astro.com.my/vsgN/41pVyQbGS-5ZE5fW0AfDPR5Otdz4VgfQC_9bpAX_dj2ns=KTd2/dash-wv/jitp-linearwm/2308/default_primary.mpd
+https://linears-playback.astro.com.my/vsgN/41pVyQbGS-5ZE5fW0AfDPR5LEgbo6JCTinrgTIWaPuONo=tbX8/dash-wv/jitp-linearwm/2308/default_primary.mpd
 # https://live.astradamy.com/astro/huaheedai/index.mpd
 # https://onedrive.aqfadtv.xyz/api/raw/?path=/expired.mp4&raw=true
 
@@ -792,46 +819,46 @@ https://linear04-playback.sooka.my/CH5/masterCH5.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/601
 # http://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_ott.mpd
-https://linears-playback.astro.com.my/vsgN/41EYOIqwRu3ux82k6lgqo-_Qj97X1Ik_D2oboepSNSq3E=-DD6/dash-wv/jitp-linearwm/601/default_primary.mpd
+https://linears-playback.astro.com.my/vsgN/41EYOIqwRu3ux82k6lgqo-_QQ31fxoGIQJs7fUTocCpfY=OIVU/dash-wv/jitp-linearwm/601/default_primary.mpd
 # https://live.astradamy.com/astro/s1/index.mpd
 
 #EXTINF:-1 tvg-id="AstroSupersport" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",811 Astro SuperSport HD (Backup)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/601
-https://linears-playback.astro.com.my/vsgN/41EYOIqwRu3ux82k6lgqo-_Qj97X1Ik_D2oboepSNSq3E=-DD6/dash-wv/jitp-linearwm/601/default_ott.mpd
+https://linears-playback.astro.com.my/vsgN/41EYOIqwRu3ux82k6lgqo-_QQ31fxoGIQJs7fUTocCpfY=OIVU/dash-wv/jitp-linearwm/601/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroSupersport2" group-title="Sports" ch-number="812" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png",812 Astro SuperSport 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2104
-https://linears-playback.astro.com.my/vsgN/41--XC1x_lgL3fqw2UE0W3OlrZ9TIznJD1v43ZTXEVRKw=iGCT/dash-wv/jitp-linearwm/2104/default_primary.mpd
+https://linears-playback.astro.com.my/vsgN/41--XC1x_lgL3fqw2UE0W3OhT-sT5hliZa2-ytPvhCOEM=hHOa/dash-wv/jitp-linearwm/2104/default_primary.mpd
 # https://live.astradamy.com/astro/s2/index.mpd
 
 #EXTINF:-1 tvg-id="AstroSupersport2" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png",812 Astro SuperSport 2 HD (Backup)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2104
-https://linears-playback.astro.com.my/vsgN/41--XC1x_lgL3fqw2UE0W3OlrZ9TIznJD1v43ZTXEVRKw=iGCT/dash-wv/jitp-linearwm/2104/default_ott.mpd
+https://linears-playback.astro.com.my/vsgN/41--XC1x_lgL3fqw2UE0W3OhT-sT5hliZa2-ytPvhCOEM=hHOa/dash-wv/jitp-linearwm/2104/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroSupersport3" group-title="Sports" ch-number="813" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png",813 Astro SuperSport 3 HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2701
-https://linears-playback.astro.com.my/vsgN/41t8zrLOKP6zl_HfPbQrjTggdw_lGASXovEgJ1mPHdsFM=NeQJ/dash-wv/jitp-linearwm/2701/default_primary.mpd
+https://linears-playback.astro.com.my/vsgN/41t8zrLOKP6zl_HfPbQrjTgkMzCtUVw2wt1ZxJ8BXQcuI=W7tW/dash-wv/jitp-linearwm/2701/default_primary.mpd
 # https://live.astradamy.com/astro/s3/index.mpd
 
 #EXTINF:-1 tvg-id="AstroSupersport3" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png",813 Astro SuperSport 3 HD (Backup)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2701
-https://linears-playback.astro.com.my/vsgN/41t8zrLOKP6zl_HfPbQrjTggdw_lGASXovEgJ1mPHdsFM=NeQJ/dash-wv/jitp-linearwm/2701/default_ott.mpd
+https://linears-playback.astro.com.my/vsgN/41t8zrLOKP6zl_HfPbQrjTgkMzCtUVw2wt1ZxJ8BXQcuI=W7tW/dash-wv/jitp-linearwm/2701/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroSupersport4" group-title="Sports" ch-number="814" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/163_144.png",814 Astro SuperSport 4 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2506
-https://linears-playback.astro.com.my/vsgN/41hJNgLpp569fZSdwFmbfcQ_nKunkSJ9crdYZ_xiHCEXw=o3F3/dash-wv/jitp-linearwm/2506/default_primary.mpd
+https://linears-playback.astro.com.my/vsgN/41hJNgLpp569fZSdwFmbfcQ9i8NSpTd71v0pIyKblJkd0=VPj7/dash-wv/jitp-linearwm/2506/default_primary.mpd
 # https://live.astradamy.com/astro/s4/index.mpd
 
 #EXTINF:-1 tvg-id="AstroSupersport4" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/163_144.png",814 Astro SuperSport 4 HD (Backup)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2506
-https://linears-playback.astro.com.my/vsgN/41hJNgLpp569fZSdwFmbfcQ_nKunkSJ9crdYZ_xiHCEXw=o3F3/dash-wv/jitp-linearwm/2506/default_ott.mpd
+https://linears-playback.astro.com.my/vsgN/41hJNgLpp569fZSdwFmbfcQ9i8NSpTd71v0pIyKblJkd0=VPj7/dash-wv/jitp-linearwm/2506/default_ott.mpd
 
 #EXTINF: -1 tvg-id="AstroSupersport5" group-title="Sports" ch-number="815" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroSupersport5.png",815 Astro SuperSport 5 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2650,6 +2677,179 @@ https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Take-CTRL/EP5.mp4
 #EXTINF:-1 type="series" group-title="Take CTRL" tvg-logo="https://aqfadtv.astradamy.com/images/TakeCTRL/6.jpg",EP6 Level 6: GG
 https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Take-CTRL/EP6.mp4
 
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUUI_IVP_LAND_672x378_2020124_154859.jpg",Episod 1
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP1.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUUJ_IVP_LAND_672x378_2020124_15499.jpg",Episod 2
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP2.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUUJ_IVP_LAND_672x378_2020124_15499.jpg",Episod 3
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP3.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUUL_IVP_LAND_672x378_2020124_154839.jpg",Episod 4
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP4.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUUM_IVP_LAND_672x378_20201214_73641.jpg",Episod 5
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP5.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUUN_IVP_LAND_672x378_20201214_73631.jpg",Episod 6
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP6.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUUO_IVP_LAND_672x378_20201214_75124.jpg",Episod 7
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP7.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUUP_IVP_LAND_672x378_20201217_184626.jpg",Episod 8
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP8.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUUR_IVP_LAND_672x378_20201221_175545.jpg",Episod 9
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP9.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUUQ_IVP_LAND_672x378_20201218_18549.jpg",Episod 10
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP10.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUUS_IVP_LAND_672x378_20201221_173015.jpg",Episod 11
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP11.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUUT_IVP_LAND_672x378_20201224_24054.jpg",Episod 12
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP12.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUUX_IVP_LAND_672x378_20201228_65456.jpg",Episod 13
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP13.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUUU_IVP_LAND_672x378_20201226_18354.jpg",Episod 14
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP14.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUUV_IVP_LAND_672x378_20201226_181057.jpg",Episod 15
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP15.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUUW_IVP_LAND_672x378_20201227_132248.jpg",Episod 16
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP16.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUUX_IVP_LAND_672x378_20201228_65456.jpg",Episod 17
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP17.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUUY_IVP_LAND_672x378_202112_2125.jpg",Episod 18
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP18.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUUZ_IVP_LAND_672x378_202112_21033.jpg",Episod 19
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP19.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVA_IVP_LAND_672x378_202113_13627.jpg",Episod 20
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP20.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVB_IVP_LAND_672x378_202113_13745.jpg",Episod 21
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP21.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVC_IVP_LAND_672x378_202117_163242.jpg",Episod 22
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP22.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVD_IVP_LAND_672x378_202117_163213.jpg",Episod 24
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP24.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVF_IVP_LAND_672x378_202117_163223.jpg",Episod 25
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP25.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVG_IVP_LAND_672x378_2021120_135852.jpg",Episod 26
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP26.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVH_IVP_LAND_672x378_2021120_13592.jpg",Episod 27
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP27.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVI_IVP_LAND_672x378_2021120_135833.jpg",Episod 28
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP28.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVJ_IVP_LAND_672x378_2021120_135843.jpg",Episod 29
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP29.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVK_IVP_LAND_672x378_202128_95232.jpg",Episod 30
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP30.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVL_IVP_LAND_672x378_202128_95310.jpg",Episod 31
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP31.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVM_IVP_LAND_672x378_2021211_175525.jpg",Episod 32
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP32.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVN_IVP_LAND_672x378_2021219_103415.jpg",Episod 33
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP33.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVQ_IVP_LAND_672x378_2021226_12858.jpg",Episod 34
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP34.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVR_IVP_LAND_672x378_2021226_12929.jpg",Episod 35
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP35.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVS_IVP_LAND_672x378_202135_102754.jpg",Episod 36
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP36.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVT_IVP_LAND_672x378_202135_102744.jpg",Episod 37
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP37.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVU_IVP_LAND_672x378_2021312_16590.jpg",Episod 38
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP38.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVV_IVP_LAND_672x378_2021312_165959.jpg",Episod 39
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP39.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVW_IVP_LAND_672x378_2021322_83321.jpg",Episod 40
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP40.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVX_IVP_LAND_672x378_2021322_8345.jpg",Episod 41
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP41.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVY_IVP_LAND_672x378_2021326_222829.jpg",Episod 42
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP42.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVZ_IVP_LAND_672x378_2021326_22291.jpg",Episod 43
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP43.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUWA_IVP_LAND_672x378_202142_174912.jpg",Episod 44
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP44.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUWD_IVP_LAND_672x378_202149_18114.jpg",Episod 45
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP45.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru//IVP(STB_OTT_STV)_JMUWE_IVP_LAND_672x378_2021416_142855.jpg",Episod 46
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP46.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUWF_IVP_LAND_672x378_2021416_142858.jpg",Episod 47
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP47.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUWG_IVP_LAND_672x378_2021423_15369.jpg",Episod 48
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP48.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUWH_IVP_LAND_672x378_2021423_153612.jpg",Episod 49
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP49.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUWI_IVP_LAND_672x378_2021512_152924.jpg",Episod 50
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP50.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUWJ_IVP_LAND_672x378_2021512_1650.jpg",Episod 51
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP51.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUWK_IVP_LAND_672x378_2021512_152920.jpg",Episod 52
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP52.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUWL_IVP_LAND_672x378_2021512_16433.jpg",Episod 53
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP53.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUWM_IVP_LAND_672x378_2021512_16426.jpg",Episod 54
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP54.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUWN_IVP_LAND_672x378_2021512_152933.jpg",Episod 55
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP55.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUWO_IVP_LAND_672x378_2021518_155628.jpg",Episod 56
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP56.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUWC_IVP_LAND_672x378_202149_18114.jpg",Episod 57
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP57.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUWB_IVP_LAND_672x378_202142_174922.jpg",Episod 58
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP58.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="series" group-title="Hagemaru" tvg-logo="https://aqfadtv.astradamy.com/images/Hagemaru/IVP(STB_OTT_STV)_JMUVO_IVP_LAND_672x378_2021217_8658.jpg",Episod 59
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Hagemaru/Hagemaru-EP59.mp4&raw=true&type=file.mp4
 
 #EXTINF:-1 type="series" group-title="Sonic Boom" tvg-logo="https://aqfadtv.astradamy.com/images/SonicBoom/S1/1.png",S1 EP1 The Sidekick
 https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Sonic_Boom/S1/Sonic_Boom_S1_EP1_The_Sidekick.mp4&raw=true&type=file.mp4
@@ -3266,4 +3466,4 @@ https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Events/Anugerah-Drama-Sangat-Mel
 #EXTINF-1 type="series" group-title="Events" tvg-logo="https://aqfadtv.astradamy.com/images/2021MAMA.png",2021 MAMA (via Tonton)
 https://onedrive.astradamy.com/api?path=/Events/MAMA.2021.cinema.tonton.com.my.mp4&raw=true&type=file.mp4
 
-<noscript><script type="text/javascript">(function(){window['__CF$cv$params']={r:'70080cefd88387ed',m:'HpiPJ38Zz7hJCfZJWb1DKJfKseoFd.7MLaEPS3ubzLQ-1650732127-0-ARS0hUp4P1ukcr8xiCMc15HAlgw8jbYCo+udeX7Vth6CLLk0lCWn5ef9XTPcpWZwt6xz6RC5vXhE7fghaONur6eG73tTBBQ6PDSl/pd69Hqec90rn7JgS0/Be9/vArGyqQ==',s:[0xeb123fdcf3,0xf5e8cf1332],u:'/cdn-cgi/challenge-platform/h/g'}})();</script>
+<noscript><script type="text/javascript">(function(){window['__CF$cv$params']={r:'70103a2a8da54967',m:'lvfdhy9_hwpriqCqRNDx1D1n3j0fl1iEhq4v3ayjtiA-1650817865-0-ASxCDRz2Wv9jEOXnCqlJ7OOh3S02xTwcdo5YJzR5M/y/TO3/jw9s7KzHfRwe/DOhZ5Ty2zaZL2mImtFeADRZyPN9h2jr0pYGu81YZJ5Q4EGZV5lutbtYSigO6nnxW/ASfA==',s:[0xefbc64e86e,0x926f91ff6a],u:'/cdn-cgi/challenge-platform/h/g'}})();</script>
